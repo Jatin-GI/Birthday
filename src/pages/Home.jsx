@@ -24,7 +24,7 @@ const Home = () => {
         transition={{ duration: 2, repeat: Infinity }}
         className="text-6xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-8"
       >
-        Happy Birthday! 🎉
+        Happy Birthday! Kanishka🎉
       </motion.h1>
       <motion.div
         whileHover={{ scale: 1.1 }}
